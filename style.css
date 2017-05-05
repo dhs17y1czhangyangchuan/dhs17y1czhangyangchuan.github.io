@@ -2,9 +2,8 @@ body {
     background-color: rgb(255, 179, 102);
 }
 
-img.center {
-    display: block;
-    margin: 0 auto;
+img{
+    text-align: center;
 }
 
 h1 {
