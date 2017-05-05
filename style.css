@@ -1,6 +1,6 @@
 <link ref="stylesheet" type="css/text" href="style.css">
 body {
-    background-color: blue;
+    background-color: brightblue;
 }
 
 h1 {
@@ -16,4 +16,5 @@ h2 {
 p {
     font-family: verdana;
     font-size: 20px;
+    text-align: center;
 }
